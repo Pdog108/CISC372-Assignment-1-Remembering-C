@@ -1,5 +1,5 @@
 # CISC372-Assignment-1-Remembering-C
-Programming Assingnment #1 in CISC372
+CISC372 Programming Assingnment #1
 Overview:
 In this assignment, we will be working with the c language to write a serial (not parallel) program to re-
 familiarize ourselves with c programs, and compiling them via the unix operating system using gcc. You
